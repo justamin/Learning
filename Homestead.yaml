@@ -1,0 +1,41 @@
+---
+ip: "192.168.10.10"
+memory: 1024
+cpus: 1
+provider: virtualbox
+
+authorize: ~/.ssh/id_rsa.pub
+
+keys:
+    - ~/.ssh/id_rsa
+
+folders:
+    - map: ~/Code
+      to: /home/vagrant/Code
+
+sites:
+    - map: wordpress.dev
+      to: /home/vagrant/Code/WordPress
+    - map: php1.dev
+      to: /home/vagrant/Code/php1
+    - map: homestead.dev
+      to: /home/vagrant/Code/Laravel
+    - map: fcc.dev
+      to: /home/vagrant/Code/FreeCodeCamp
+
+databases:
+    - homestead
+    - wordpress
+
+# blackfire:
+#     - id: foo
+#       token: bar
+#       client-id: foo
+#       client-token: bar
+
+# ports:
+#     - send: 50000
+#       to: 5000
+#     - send: 7777
+#       to: 777
+#       protocol: udp
