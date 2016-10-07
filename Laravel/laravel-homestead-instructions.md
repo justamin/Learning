@@ -12,3 +12,5 @@ When starting a new project
 6. Restart the host file
 7. Call 'vagrant global-status' to get the status of your vagrant machine
 8. Use 'vagrant provision' to refresh your provisioner and get the domains to work
+9. To stop homestead, use 'vagrant halt'
+10. To restart, use 'vagrant up'
