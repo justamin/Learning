@@ -1,7 +1,9 @@
 #Best Places to learn WordPress Development
 
 #PHP
--TutsPlus
+- TreeHouse
+	- PHP For WordPress - https://teamtreehouse.com/library/php-for-wordpress
+- TutsPlus
 	- PHP fundamentals - https://code.tutsplus.com/courses/php-fundamentals
 	- Become a web developer, learn PHP - https://code.tutsplus.com/courses/how-to-become-a-web-developer-learn-php
 	- PHP OOP Fundamentals - https://code.tutsplus.com/courses/php-object-oriented-programming-fundamentals
@@ -13,7 +15,11 @@
 	- Techniques for refactoring code - https://code.tutsplus.com/courses/techniques-for-refactoring-code
 
 #Plugins
-- TreeHouse - https://teamtreehouse.com/library/how-to-build-a-wordpress-plugin
+- TreeHouse 
+	- How to build a WordPress Pluginhttps://teamtreehouse.com/library/how-to-build-a-wordpress-plugin
+	- WordPress Hooks, Actions and Filters - https://teamtreehouse.com/library/wordpress-hooks-actions-and-filters
+	- WordPress Customizer API - https://teamtreehouse.com/library/wordpress-customizer-api
+	- Customizing WordPress Admin Area - https://teamtreehouse.com/library/customizing-the-wordpress-admin-area
 - Pippin's Plugins
 	- Write your first WP plugin - https://pippinsplugins.com/series/writing-your-first-wordpress-plugins-basic-to-advanced/
 	- Plugin Development 101 - https://pippinsplugins.com/series/plugin-development-101/
@@ -41,10 +47,14 @@
 	- Using the WordPress Settings API - https://code.tutsplus.com/courses/using-the-wordpress-settings-api
 
 #Themes
+- TreeHouse
+	- WordPress Theme Development - https://teamtreehouse.com/library/wordpress-theme-development
+	- WordPress Template Hierarchy - https://teamtreehouse.com/library/the-wordpress-template-hierarchy
+	- From Bootstrap to WordPress - https://teamtreehouse.com/library/from-bootstrap-to-wordpress
+	- WooCommerce Theme Development - https://teamtreehouse.com/library/woocommerce-theme-development
 - Lynda
 	- Information Architecture and Template Hierarchy - https://www.lynda.com/WordPress-tutorials/WordPress-Developer-Tips-Information-Architecture-Template-Hierarchy/174240-2.html
 	- Building Genesis Child Themes from Scratch - https://www.lynda.com/Genesis-tutorials/WordPress-Genesis-Building-Child-Themes-from-Scratch/421805-2.html
-
 - TutsPlus
 	- How to make your theme WooCommerce compatible - https://code.tutsplus.com/courses/how-to-make-your-theme-woocommerce-compatible
 	- Anatomy of the WordPress theme template file - https://code.tutsplus.com/courses/anatomy-of-a-wordpress-theme-template-file
