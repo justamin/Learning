@@ -31,11 +31,13 @@ https://developer.wordpress.org/plugins/
 	- Group similar functions together.
 	- Secure your plugin via validating data, sanitizing input & escaping output.
 	- Use plugins like Debug Bar and Query Monitor
+	- Or this by Automattic - https://wordpress.org/plugins/developer/
 	- Exit if user tries to access plugin from outside of WordPress
 		- if ( ! defined( ‘ABSPATH’ ) ) exit; // Exit if accessed directly
 	- Use QueryPosts to find specific helper functions - http://queryposts.com
 
 #More Tips
+
 Taken from various sites
 	- Avoid God Objects
 		- God Objects are objects that know or do too much. The point of object-oriented programming is taking a large problem and breaking it into smaller parts. By having functions do too much, it’s hard to follow that logic and a bug will be harder to fix. Instead of having massive functions, break them down into smaller pieces.
@@ -54,9 +56,6 @@ Taken from various sites
 	- UI for Service Integration plugins
 		- If your plugin relies on connecting to an external service (for example, your service is a payment gateway, shipping method, or other service integration), it’s important to inform your users that a connection is required in order to use the plugin. To do this, we recommend an admin notice, linking to the specific service integration screen within WooCommerce.
 	- Check if WooCommerce is active
-		- /**
-			 * Check if WooCommerce is active
-			 **/
 			if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) ) {
 			    // Put your plugin code here
 			}
