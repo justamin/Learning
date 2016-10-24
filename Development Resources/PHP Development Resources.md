@@ -1,6 +1,8 @@
 #PHP Development Resources
 
 #PHP
+- CodeCourse
+	- For Screencasts and exercises
 - TreeHouse
 	- PHP For WordPress - https://teamtreehouse.com/library/php-for-wordpress
 	- PHP Basics - https://teamtreehouse.com/library/php-basics-2

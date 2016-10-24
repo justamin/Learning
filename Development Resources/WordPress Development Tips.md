@@ -37,10 +37,9 @@ https://developer.wordpress.org/plugins/
 	- Use QueryPosts to find specific helper functions - http://queryposts.com
 
 #More Tips
-
 Taken from various sites
 	- Avoid God Objects
-		- God Objects are objects that know or do too much. The point of object-oriented programming is taking a large problem and breaking it into smaller parts. By having functions do too much, it’s hard to follow that logic and a bug will be harder to fix. Instead of having massive functions, break them down into smaller pieces.
+		-  God Objects are objects that know or do too much. The point of object-oriented programming is taking a large problem and breaking it into smaller parts. By having functions do too much, it’s hard to follow that logic and a bug will be harder to fix. Instead of having massive functions, break them down into smaller pieces.
 	- Turn on WP_DEBUG
 		-	Always develop with WP_DEBUG mode on, so you can see all PHP warnings sent to the screen. It’s usually things like making sure a variable is set before checking the value
 	- Make it extensible

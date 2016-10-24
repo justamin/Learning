@@ -1,0 +1,1 @@
+https://codeinwp.com/blog/affiliate-programs-for-wordpress/
