@@ -8,4 +8,3 @@
 	- Only have your primary PHP file and uninstall file in the plugins folder. The rest should be in a sub directory
 	- Split your plugin into smaller files for performance reasons (eg: Group admin functions together in a file. This will allow you to only load the admin code when the user is viewing admin)
 	- Avoid a God function
-	- 
