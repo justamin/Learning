@@ -1,6 +1,8 @@
 # Building Themes
 ## An Introduction to theme development
 - [https://themefuse.com/building-modern-wordpress-themes/]
+- [https://code.tutsplus.com/tutorials/how-to-code-multiple-loops-while-only-querying-the-database-once--cms-25703]
+- [http://code.tutsplus.com/tutorials/dry-wordpress-theme-development--cms-22117]
 
 ## Child Theme
 - [https://upandrunningwp.com/screencasts/making-a-child-theme/]
@@ -23,6 +25,7 @@
 - [https://teamtreehouse.com/library/the-wordpress-template-hierarchy]
 - [https://www.lynda.com/WordPress-tutorials/WordPress-Developer-Tips-Information-Architecture-Template-Hierarchy/174240-2.html]
 - [https://code.tutsplus.com/courses/anatomy-of-a-wordpress-theme-template-file]
+- [http://code.tutsplus.com/tutorials/how-to-create-content-in-wordpress-with-posts-and-pages--cms-27090]
 
 ## Customizer
 - [https://code.tutsplus.com/courses/write-customizer-ready-wordpress-themes]

@@ -31,6 +31,7 @@
 ### Free - How to use a Plugin Boilerplate
 - [https://www.codeinwp.com/blog/the-wordpress-plugin-boilerplate-101/]
 - [https://neliosoftware.com/blog/create-better-plugins-with-the-plugin-boilerplate/]
+- [https://code.tutsplus.com/series/developing-plugins-with-wordpress-boilerplates--wp-33843]
 
 ## Examples of Building Plugins With Features
 ### Free
@@ -38,6 +39,10 @@
 - [https://www.smashingmagazine.com/2012/11/embeddable-content-wordpress/]
 - [https://www.smashingmagazine.com/2014/08/how-i-built-the-one-page-scroll-plugin/]
 - [https://code.tutsplus.com/tutorials/creating-a-custom-wordpress-messaging-system-part-1--cms-27542]
+- [https://code.tutsplus.com/series/creating-maintainable-wordpress-meta-boxes--cms-661]
+
+### Advanced Development
+- [https://code.tutsplus.com/tutorials/advanced-wordpress-plugin-development--pre-52384]
 
 ### Paid
 - [https://pippinsplugins.com/series/user-submitted-image-galleries/]

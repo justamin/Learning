@@ -5,6 +5,7 @@
 - [https://deliciousbrains.com/building-reactive-wordpress-plugins-part-2-vue-js/]
 - [https://deliciousbrains.com/building-reactive-wordpress-plugins-part-3-elm/]
 - [https://deliciousbrains.com/creating-a-wordpress-theme-using-the-rest-api-and-vue-js/]
+- [https://code.tutsplus.com/series/introducing-the-wp-rest-api--cms-896]
 
 ### Paid
 - [https://www.lynda.com/WordPress-tutorials/WordPress-REST-API/572168-2.html]

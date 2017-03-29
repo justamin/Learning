@@ -7,6 +7,7 @@
 - [https://deliciousbrains.com/codeception-automate-wordpress-plugin-testing/]
 - [https://deliciousbrains.com/unit-testing-ajax-api-requests-wordpress-plugins/]
 - [https://deliciousbrains.com/unit-test-wp-migrate-db-pro/]
+- [https://code.tutsplus.com/tutorials/how-to-automate-and-optimize-your-wordpress-development-and-testing-on-pantheon--cms-26551]
 
 ### Paid
 - [https://pippinsplugins.com/series/unit-tests-wordpress-plugins/]

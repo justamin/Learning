@@ -9,6 +9,10 @@
 - [https://www.smashingmagazine.com/2016/03/making-a-wordpress-plugin-that-uses-service-apis/]
 - [https://code.tutsplus.com/series/the-complete-guide-to-the-wordpress-settings-api--cms-624]
 - [https://code.tutsplus.com/series/the-wordpress-customizer-javascript-apis--cms-1094]
+- [https://code.tutsplus.com/series/introduction-to-creating-your-first-wordpress-widget--cms-721]
+
+## Free - Build a welcome page for the plugin
+- [https://code.tutsplus.com/series/building-a-welcome-page-for-your-wordpress-product--cms-997]
 
 ### Free - Special Features
 - [https://www.smashingmagazine.com/2015/05/how-to-use-autoloading-and-a-plugin-container-in-wordpress-plugins/]
@@ -21,7 +25,3 @@
 ### Improving the plugin's performance
 - [https://pippinsplugins.com/series/building-a-database-abstraction-layer/]
 - [https://deliciousbrains.com/excluding-wordpress-plugins-loading-specific-ajax-requests/]
-
-## Marketing
-### Free
-- [https://www.smashingmagazine.com/2012/01/commercial-plugin-developers-wordpress-repository/]
