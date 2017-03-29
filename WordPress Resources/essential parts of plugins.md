@@ -1,4 +1,6 @@
 ## Essential Parts of a plugin
+
+## Basic Plugin Essentials
 ### Paid
 - [https://pippinsplugins.com/series/shortcodes-101/]
 - [https://code.tutsplus.com/courses/wordpress-widgets-front-to-back]
@@ -18,6 +20,7 @@
 
 ### Improving the plugin's performance
 - [https://pippinsplugins.com/series/building-a-database-abstraction-layer/]
+- [https://deliciousbrains.com/excluding-wordpress-plugins-loading-specific-ajax-requests/]
 
 ## Marketing
 ### Free

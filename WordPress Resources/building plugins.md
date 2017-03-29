@@ -26,6 +26,7 @@
 
 ### Free - How to build a WooCommerce plugin
 - [https://www.skyverge.com/blog/creating-custom-plugin-for-your-woocommerce-shop/]
+- [https://code.tutsplus.com/tutorials/create-a-custom-shipping-method-for-woocommerce--cms-26098]
 
 ### Free - How to use a Plugin Boilerplate
 - [https://www.codeinwp.com/blog/the-wordpress-plugin-boilerplate-101/]
