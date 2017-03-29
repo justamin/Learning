@@ -1,12 +1,12 @@
-#WordPress Development Tips
+# WordPress Development Tips
 
 This document extends the Programming Tips file, for more WordPress specific tips
 
-#For Basic WordPress Development
-https://codex.wordpress.org
+## For Basic WordPress Development
+- [https://codex.wordpress.org]
 
-#For more on WordPress Plugin development
-https://developer.wordpress.org/plugins/
+## For more on WordPress Plugin development
+- [https://developer.wordpress.org/plugins/]
 - Understand hooks, actions and filters
 	- Actions - adds, modifies and removes certain functionality
 		- Add Actions - https://developer.wordpress.org/reference/functions/add_action/
@@ -36,7 +36,7 @@ https://developer.wordpress.org/plugins/
 		- if ( ! defined( ‘ABSPATH’ ) ) exit; // Exit if accessed directly
 	- Use QueryPosts to find specific helper functions - http://queryposts.com
 
-#More Tips
+## More Tips
 Taken from various sites
 	- Avoid God Objects
 		-  God Objects are objects that know or do too much. The point of object-oriented programming is taking a large problem and breaking it into smaller parts. By having functions do too much, it’s hard to follow that logic and a bug will be harder to fix. Instead of having massive functions, break them down into smaller pieces.
@@ -55,9 +55,11 @@ Taken from various sites
 	- UI for Service Integration plugins
 		- If your plugin relies on connecting to an external service (for example, your service is a payment gateway, shipping method, or other service integration), it’s important to inform your users that a connection is required in order to use the plugin. To do this, we recommend an admin notice, linking to the specific service integration screen within WooCommerce.
 	- Check if WooCommerce is active
+	```
 			if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) ) {
 			    // Put your plugin code here
 			}
+	```
 	- Custom WordPress Tables
 		- Creating custom database tables should be avoided. Whenever possible, you should always use WordPress post types, taxonomies, and options.
 			- Consider the permanence of your data. Here’s a quick primer:
@@ -68,7 +70,7 @@ Taken from various sites
 				If the data is a means or sorting/categorizing an entity, consider a taxonomy.
 				Logs should be written to a file using the WC_Logger class.
 
-#For WordPress Themes
-https://codex.wordpress.org/Theme_Development
+## For WordPress Themes
+- [https://codex.wordpress.org/Theme_Development]
 - Use get_template_part
 - Extend get_template_part with function variables
