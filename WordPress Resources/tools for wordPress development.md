@@ -13,9 +13,6 @@
 ## Twig and Timber
 https://code.tutsplus.com/articles/kick-start-wordpress-development-with-twig-introduction--cms-24781
 
-## Dependency
-- [https://www.smashingmagazine.com/2014/03/better-dependency-management-team-based-wordpress-projects-composer/]
-
 ## Development Environment
 ### Free
 - [https://code.tutsplus.com/tutorials/wordpress-development-with-vvv--cms-26322]

@@ -9,6 +9,7 @@
 
 ### Mastering WP_Query
 - [https://code.tutsplus.com/series/mastering-wp_query--cms-818]
+- [https://torquemag.io/2016/07/a-guide-to-wp_query/]
 
 ### Ajax and WordPress
 - [https://code.tutsplus.com/tutorials/improved-ajax-techniques-for-wordpress-procedural-programming--cms-24854]
